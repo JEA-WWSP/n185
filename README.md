@@ -6,7 +6,7 @@ Creates n<sup>1.85</sup> logarithmic graphs based on NFPA 291 recommendations.  
 ## Installation
 ```
 install.packages("devtools")
-devtools::install_github("dCraigJones/n185")
+devtools::install_github("JEA-WWSP/n185")
 ```
 	
 ## Usage
